@@ -1,0 +1,6 @@
+framework module SwiftyMasonry {
+  umbrella header "SwiftyMasonry-umbrella.h"
+
+  export *
+  module * { export * }
+}

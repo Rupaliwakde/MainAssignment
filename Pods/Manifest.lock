@@ -1,0 +1,34 @@
+PODS:
+  - ANLoader (1.1.2)
+  - Masonry (1.1.0)
+  - SwiftLint (0.46.2)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - SwiftyMasonry (0.1.5):
+    - Masonry
+
+DEPENDENCIES:
+  - ANLoader
+  - SwiftLint
+  - SwiftMessages
+  - SwiftyMasonry
+
+SPEC REPOS:
+  trunk:
+    - ANLoader
+    - Masonry
+    - SwiftLint
+    - SwiftMessages
+    - SwiftyMasonry
+
+SPEC CHECKSUMS:
+  ANLoader: fe33ee0568e30894f7d33e7d3aafe8de4b980153
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SwiftLint: 6bc52a21f0fd44cab9aa2dc8e534fb9f5e3ec507
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  SwiftyMasonry: 00e92c5c2b4537281b6f90ba717ac1c07d2dd75a
+
+PODFILE CHECKSUM: 62eb863567087e5d615a1bfc594cf4695c855824
+
+COCOAPODS: 1.11.2

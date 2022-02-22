@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Assignment/Pods-Assignment-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ANLoader/ANLoader.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SwiftMessages/SwiftMessages.framework
+${BUILT_PRODUCTS_DIR}/SwiftyMasonry/SwiftyMasonry.framework
